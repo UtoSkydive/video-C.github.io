@@ -145,6 +145,7 @@ margin-top:15px;
     height:200px;
     margin:10px;
     position: relative;
+    border-radius: 10px;
     
   }
 
@@ -173,4 +174,8 @@ margin-top:15px;
     color:#A2A2A2;
     font-size:12px;
     margin-top:3px;
+  }
+  .box img{
+      width: 100%;
+      border-radius: 10px;
   }
